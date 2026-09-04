@@ -1,118 +1,87 @@
-# 👋 Hi, I'm R Hemant Kumar Patra
+# Hi, I'm R Hemant Kumar Patra 👋
 
-### 🚀 Data Science Aspirant | Data Analytics Enthusiast | BI & Visualization
+### 🐍 Aspiring Data Scientist | Python | SQL | Excel | Power BI | Tableau
 
-Welcome to my GitHub profile! I'm a **BCA student** passionate about turning data into meaningful insights and building practical, data-driven solutions.
+Welcome to my **Data Science & Analytics Portfolio**! 🚀
 
-I enjoy working with data, creating interactive dashboards, analyzing trends, and continuously learning new technologies in the field of **Data Science**.
+I am an aspiring **Data Scientist** with a background in **BCA from Berhampur University** and a strong interest in data analysis, data visualization, programming, and solving real-world data problems.
 
----
+I enjoy working with data to **clean, analyze, visualize, and transform raw information into meaningful insights** that support better decision-making.
 
-## 👨‍💻 About Me
+## 🛠️ Skills
 
-* 🎓 **BCA | Berhampur University | 2023–2026**
-* 📊 Interested in **Data Science & Data Analytics**
-* 📈 Passionate about **Data Visualization & Business Intelligence**
-* 💡 Interested in solving real-world problems using data
-* 🌱 Currently improving my skills in **SQL, Python & Data Science**
-* 📍 Based in **Bhubaneswar, Odisha, India**
-
----
-
-## 🛠️ Technical Skills
-
-### 📊 Data & Visualization
-
-* Microsoft Excel
-* Power BI
-* Tableau
-* Data Cleaning
-* Data Visualization
-* Dashboard Development
-
-### 🗄️ Database
-
-* SQL
-* MySQL
-* Data Manipulation
-* Joins & Subqueries
-* Aggregate Functions
-
-### 🐍 Programming & Data Science
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Basic Statistics
-* Exploratory Data Analysis (EDA)
-
----
+* **Python** – Python Fundamentals, Functions, OOP, NumPy, Pandas, Data Cleaning, EDA
+* **SQL** – Joins, Subqueries, CTEs, Aggregations, Window Functions
+* **Excel** – Data Cleaning, VLOOKUP, XLOOKUP, INDEX-MATCH, Pivot Tables, Dashboarding
+* **Power BI** – Power Query, Data Modeling, DAX, KPI Cards, Slicers, Interactive Dashboards
+* **Tableau** – Data Visualization, Calculated Fields, Interactive Dashboards
+* **Statistics & Probability** – Descriptive Statistics, Data Interpretation, Analytical Concepts
+* **Generative AI** – Prompt Engineering & AI-assisted Data Analysis
+* **Jupyter Notebook** – Data Analysis, Visualization & Python Practice
 
 ## 📂 Featured Projects
 
-### 📊 Power BI Dashboards
+### 🐍 Python Projects
 
-Interactive dashboards designed to transform raw data into meaningful business insights.
-
-**Skills:** Power BI | Data Cleaning | DAX | Data Visualization
-
-### 📈 Tableau Dashboard
-
-Interactive visualization project focused on presenting KPIs, trends, and business insights.
-
-**Skills:** Tableau | Data Visualization | Dashboard Design
+* **Python Data Analysis Projects** – Data cleaning, exploratory data analysis, statistical analysis, and visualization using Python
+* **Python Practice Projects** – Practical Python programming exercises covering fundamentals, functions, loops, collections, and problem-solving
 
 ### 🗄️ SQL Projects
 
-SQL-based projects involving database creation, data manipulation, queries, joins, aggregations, and analytical insights.
+* **WildTrack Conservation Project** – Wildlife and conservation data analysis using SQL
+* **OrbitLink Satellite Project** – Satellite, customer, and connectivity data analysis using SQL
+* Database querying using **Joins, CTEs, Subqueries, Aggregations, and Window Functions**
 
-**Skills:** SQL | MySQL | Database Management | Data Analysis
+### 📈 Tableau Projects
 
-### 📊 Excel Projects
+* **Translogix Delivery Delay Dashboard** – Delivery delay analysis and operational performance insights
+* **NexaServe IT Solutions Dashboard** – Business and service analytics
+* **Nykaa Dashboard** – E-commerce sales and product analysis
+* **Google Stock Analysis** – Stock performance and trend analysis
 
-Data analysis and dashboard projects using Excel functions, PivotTables, charts, conditional formatting, and interactive reporting.
+### 📊 Power BI Projects
 
-**Skills:** Excel | PivotTables | Data Analysis | Dashboarding
+* **NexaServe IT Solutions Dashboard**
+* Interactive business dashboards using **Power Query, DAX, KPIs, slicers, and visualizations**
+
+### 📑 Excel Projects
+
+* **Bhubaneswar Dataset Analysis** – Data cleaning, lookup functions, Pivot Tables, and business analysis
+* Excel-based data analysis and dashboard projects
+
+## 🎯 What I'm Currently Learning
+
+* Advanced Python
+* Python for Data Analysis
+* Advanced SQL
+* Data Analytics
+* Power BI & DAX
+* Tableau
+* Statistics & Probability
+* Machine Learning
+* Generative AI
+* Data Science
+
+## 🌱 My Goal
+
+To build a strong career as a **Data Scientist** by continuously improving my programming, analytical, statistical, and problem-solving skills while working on real-world datasets and practical projects.
+
+I aim to combine **Python, SQL, Statistics, Machine Learning, and Data Visualization** to solve meaningful business and data problems.
+
+## 🔗 Connect With Me
+
+💼 **LinkedIn:** [linkedin.com/in/r-hemant-kumar-patra-654469419](https://www.linkedin.com/in/r-hemant-kumar-patra-654469419/)
+
+📂 **GitHub:** You're already here! 😊
 
 ---
 
-## 📚 Currently Learning
+⭐ Feel free to explore my repositories and projects!
 
-```text
-Python for Data Science
-        ↓
-Pandas & NumPy
-        ↓
-Data Cleaning & EDA
-        ↓
-Statistics
-        ↓
-Machine Learning
-        ↓
-End-to-End Data Science Projects
-```
+### 📍 Based in Bhubaneswar, India
+
+### 🎓 BCA | Berhampur University
 
 ---
 
-## 🎯 Career Goal
-
-> To build strong expertise in **Data Science** and develop real-world projects that solve business problems through data, analytics, visualization, and machine learning.
-
----
-
-## 📫 Connect With Me
-
-💼 **LinkedIn:**
-(https://www.linkedin.com/in/r-hemant-kumar-patra-654469419/)
-
-📂 **GitHub:**
-You're already here! Explore my repositories to see my projects and learning journey.
-
----
-
-## ⭐ Explore My Repositories
-
-If you find my projects useful or interesting, feel free to ⭐ **star** the repositories and follow my GitHub journey!
-
-**Thanks for visiting my profile! 🚀**
+⭐ **Keep Learning • Keep Practicing • Keep Building** 🚀
