@@ -1,192 +1,136 @@
 # 📊 NexaServe IT Solutions – Power BI Analytics Project
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-purple?style=for-the-badge)
-
 ## 📌 Project Overview
 
-**NexaServe IT Solutions** is an end-to-end **Power BI Business Intelligence project** developed to analyze and visualize key business, employee, revenue, and support-related metrics.
+This project presents an interactive **Power BI Analytics Dashboard** developed for **NexaServe IT Solutions** to analyze business performance, employee performance, client revenue, and customer support operations.
 
-The project consists of **three interactive dashboards** designed to convert business data into meaningful insights through KPIs, charts, slicers, and data visualizations.
-
-The dashboards provide a comprehensive view of:
-
-- 💰 Client Revenue
-- 👥 Employee Performance
-- 🎧 Support Analytics
-- 🌎 Regional Performance
-- 📑 Contract Analysis
-- ⭐ Customer Satisfaction
-- 🔄 Renewal Performance
-
-This project demonstrates practical skills in **Power BI, data visualization, KPI development, dashboard design, and business analytics**.
+The project transforms raw business data into meaningful visual insights using **Microsoft Power BI**, helping stakeholders understand key performance indicators, identify trends, and make data-driven decisions.
 
 ---
 
-# 📊 Dashboards Included
+## 🎯 Project Objectives
 
-## 1️⃣ Client Revenue Dashboard
-
-The **Client Revenue Dashboard** provides an overview of revenue generation, contracts, renewals, and client performance.
-
-### Key KPIs
-
-| KPI | Value |
-|---|---:|
-| 💰 Total Revenue | 297.73K |
-| 📑 Total Contracts | 1K |
-| 🔄 Renewed Rate | 0.33 |
-| ⏱️ Average Resolution | 15.40 |
-
-### Key Visualizations
-
-- Revenue by Client Name
-- Revenue by Contract Type
-- Revenue by Region
-- Renewal Status
-- Client-level analysis
-- Regional filtering
-
-### Purpose
-
-This dashboard helps analyze client contribution, revenue distribution, contract types, and renewal-related metrics.
+- Analyze overall business and client performance
+- Track client revenue and financial contribution
+- Evaluate employee performance and productivity
+- Analyze customer support activities and performance
+- Identify important trends and patterns
+- Build interactive and user-friendly dashboards
+- Present complex data through clear visualizations
 
 ---
 
-## 2️⃣ Employee Performance Dashboard
+## 🛠️ Tools & Technologies
 
-The **Employee Performance Dashboard** focuses on workforce performance, attendance, overtime, and departmental analysis.
-
-### Key KPIs
-
-| KPI | Value |
-|---|---:|
-| 📈 Average Performance Rating | 3.11 |
-| 👥 Total Employees | 2K |
-| 🕐 Attendance | 411 |
-| 📊 Average Attendance % | 77.55 |
-
-### Key Visualizations
-
-- Attendance % by Department
-- Overtime Hours by Department
-- Employee Performance Analysis
-- Department-wise Performance
-- Employee-level filtering
-- Employee Category analysis
-
-### Purpose
-
-This dashboard provides insights into employee attendance, performance, overtime, and departmental workforce trends.
+- **Microsoft Power BI**
+- **Power Query**
+- **DAX**
+- **Data Modeling**
+- **Data Visualization**
+- **Microsoft Excel** *(Data Source)*
 
 ---
 
-## 3️⃣ Support Analytics Dashboard
+## 📊 Dashboards Included
 
-The **Support Analytics Dashboard** combines business, employee, revenue, customer satisfaction, and contract-related metrics into a single analytical view.
+### 1️⃣ Client Revenue Dashboard
 
-### Key KPIs
+This dashboard provides insights into client revenue and business performance.
 
-| KPI | Value |
-|---|---:|
-| 👥 Total Employees | 2K |
-| 💰 Total Revenue | 297.73K |
-| 🔄 Renewed % | 0.33 |
-| ⭐ Average Satisfaction Score | 2.85 |
+**Key Analysis:**
+- Total Revenue
+- Client-wise Revenue
+- Revenue Trends
+- Top Performing Clients
+- Revenue Contribution
+- Business Performance Metrics
 
-### Key Visualizations
+### 2️⃣ Employee Performance Dashboard
 
-- Revenue by Client
-- Revenue by Region
-- Average Performance Rating by Department
-- Client Revenue Comparison
-- Department Analysis
-- Contract Type Analysis
-- Interactive Filters
+This dashboard focuses on employee productivity and performance.
 
-### Purpose
+**Key Analysis:**
+- Employee Performance
+- Productivity Metrics
+- Performance Comparison
+- Employee-wise KPIs
+- Department/Team Performance
+- Performance Trends
 
-This dashboard provides a consolidated view of business and support-related performance to make organizational data easier to analyze.
+### 3️⃣ Support Analytics Dashboard
 
----
+This dashboard analyzes customer support operations and service performance.
 
-# 🛠️ Tools & Technologies
-
-### Microsoft Power BI
-
-Used for:
-
-- Dashboard development
-- Data visualization
-- KPI creation
-- Interactive reporting
-- Slicers and filters
-- Business intelligence analysis
-
-### Power Query
-
-Used for:
-
-- Data cleaning
-- Data transformation
-- Data preparation
-- Handling and organizing source data
-
-### DAX
-
-Used for:
-
-- Measures
-- KPI calculations
-- Aggregations
-- Business metrics
+**Key Analysis:**
+- Support Tickets
+- Ticket Status
+- Resolution Performance
+- Support Trends
+- Customer Support Metrics
+- Service Performance
 
 ---
 
-# 📈 Key Skills Demonstrated
+# 🖼️ Dashboard Preview
 
-- Power BI Dashboard Development
-- Data Cleaning & Transformation
-- Data Visualization
-- Business Intelligence
-- KPI Development
-- DAX
-- Power Query
-- Interactive Slicers
-- Data Analysis
-- Revenue Analysis
-- Employee Analytics
-- Customer Support Analytics
-- Regional Analysis
-- Business Reporting
+## 💰 Client Revenue Dashboard
+
+![Client Revenue Dashboard](./Client%20Revenue%20Dashboard.png)
 
 ---
 
-# 🎯 Project Objectives
+## 👨‍💼 Employee Performance Dashboard
 
-The main objectives of this project were to:
-
-1. Analyze client revenue and contract performance.
-2. Identify revenue distribution across regions and clients.
-3. Analyze employee attendance and performance.
-4. Compare departmental performance.
-5. Monitor customer satisfaction metrics.
-6. Analyze renewal-related KPIs.
-7. Create interactive dashboards for business reporting.
-8. Transform raw data into clear and actionable visual insights.
+![Employee Performance Dashboard](./Employee%20Performance%20Dashboard.png)
 
 ---
 
-# 📂 Repository Structure
+## 🎧 Support Analytics Dashboard
+
+![Support Analytics Dashboard](./Support%20Analytics%20Dashboard.png)
+
+---
+
+## 🔍 Key Features
+
+### 📈 Interactive Visualizations
+Interactive charts, graphs, KPI cards, and filters make it easy to explore the data.
+
+### 🎯 KPI Tracking
+Important business metrics are displayed through easy-to-understand KPI indicators.
+
+### 🔎 Data Filtering
+Users can filter and analyze information based on different categories and dimensions.
+
+### 📊 Comparative Analysis
+The dashboards allow comparison across clients, employees, departments, and support activities.
+
+### 💡 Data-Driven Insights
+The project converts business data into actionable insights that can support decision-making.
+
+---
+
+## ⚙️ Power BI Development Process
+
+The project was developed using the following workflow:
+
+1. **Data Collection**
+2. **Data Cleaning & Transformation**
+3. **Data Modeling**
+4. **DAX Calculations**
+5. **Dashboard Design**
+6. **Data Visualization**
+7. **Insight Generation**
+
+---
+
+## 📂 Project Structure
 
 ```text
 NexaServe-IT-Solutions/
 │
 ├── Client Revenue Dashboard.png
-│
 ├── Employee Performance Dashboard.png
-│
 ├── Support Analytics Dashboard.png
 │
 └── Readme.md
