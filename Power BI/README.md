@@ -1,568 +1,136 @@
-# 📊 Power BI Data Analytics Portfolio
+# 📊 NexaServe IT Solutions – Power BI Analytics Project
 
-Welcome to my **Power BI Projects Portfolio**! 🚀
+## 📌 Project Overview
 
-This repository showcases my practical work in **Microsoft Power BI**, focusing on **data cleaning, data transformation, data modeling, DAX, KPI analysis, interactive dashboards, and business insights**.
+This project presents an interactive **Power BI Analytics Dashboard** developed for **NexaServe IT Solutions** to analyze business performance, employee performance, client revenue, and customer support operations.
 
-The projects demonstrate how Power BI can be used to transform raw data into **interactive, meaningful, and decision-ready dashboards**.
-
----
-
-# 🛠️ Power BI Skills
-
-## 📥 Data Import & Data Preparation
-
-* Importing data from Excel
-* CSV files
-* Databases
-* Multiple data sources
-* Data profiling
-* Data cleaning
-* Handling missing values
-* Removing duplicates
-* Changing data types
-* Renaming columns
-* Filtering data
-* Replacing values
+The project transforms raw business data into meaningful visual insights using **Microsoft Power BI**, helping stakeholders understand key performance indicators, identify trends, and make data-driven decisions.
 
 ---
 
-## 🔄 Power Query
+## 🎯 Project Objectives
 
-Power Query is used for **data extraction, cleaning, transformation, and preparation**.
-
-### Key Techniques
-
-* Data Cleaning
-* Data Transformation
-* Merge Queries
-* Append Queries
-* Conditional Columns
-* Custom Columns
-* Group By
-* Replace Values
-* Split Columns
-* Remove Duplicates
-* Change Data Types
-* Fill Down / Fill Up
-* Data Filtering
+- Analyze overall business and client performance
+- Track client revenue and financial contribution
+- Evaluate employee performance and productivity
+- Analyze customer support activities and performance
+- Identify important trends and patterns
+- Build interactive and user-friendly dashboards
+- Present complex data through clear visualizations
 
 ---
 
-## 🧩 Data Modeling
+## 🛠️ Tools & Technologies
 
-I practice building structured data models for efficient Power BI reporting.
-
-### Concepts
-
-* Fact Tables
-* Dimension Tables
-* Primary Keys
-* Foreign Keys
-* Relationships
-* One-to-Many Relationships
-* Star Schema
-* Date Tables
-* Model Optimization
+- **Microsoft Power BI**
+- **Power Query**
+- **DAX**
+- **Data Modeling**
+- **Data Visualization**
+- **Microsoft Excel** *(Data Source)*
 
 ---
 
-## 🧮 DAX
+## 📊 Dashboards Included
 
-DAX is used to create calculated measures and analytical expressions.
+### 1️⃣ Client Revenue Dashboard
 
-### DAX Concepts Practiced
+This dashboard provides insights into client revenue and business performance.
 
-* Measures
-* Calculated Columns
-* Calculated Tables
-* SUM
-* SUMX
-* COUNT
-* COUNTROWS
-* DISTINCTCOUNT
-* AVERAGE
-* MIN
-* MAX
-* CALCULATE
-* FILTER
-* ALL
-* ALLEXCEPT
-* DIVIDE
-* IF
-* SWITCH
-* DATE functions
-* Time Intelligence
+**Key Analysis:**
+- Total Revenue
+- Client-wise Revenue
+- Revenue Trends
+- Top Performing Clients
+- Revenue Contribution
+- Business Performance Metrics
 
-### Example
+### 2️⃣ Employee Performance Dashboard
 
-```DAX
-Total Sales =
-SUM(Sales[SalesAmount])
-```
+This dashboard focuses on employee productivity and performance.
 
-```DAX
-Total Orders =
-COUNTROWS(Sales)
-```
+**Key Analysis:**
+- Employee Performance
+- Productivity Metrics
+- Performance Comparison
+- Employee-wise KPIs
+- Department/Team Performance
+- Performance Trends
 
-```DAX
-Average Sales =
-AVERAGE(Sales[SalesAmount])
-```
+### 3️⃣ Support Analytics Dashboard
 
-```DAX
-Sales Growth % =
-DIVIDE(
-    [Current Sales] - [Previous Sales],
-    [Previous Sales],
-    0
-)
-```
+This dashboard analyzes customer support operations and service performance.
+
+**Key Analysis:**
+- Support Tickets
+- Ticket Status
+- Resolution Performance
+- Support Trends
+- Customer Support Metrics
+- Service Performance
 
 ---
 
-# 📊 Dashboard & Visualization Skills
+# 🖼️ Dashboard Preview
 
-My Power BI dashboards focus on presenting complex information in a simple and interactive format.
+## 💰 Client Revenue Dashboard
 
-### Visuals Used
-
-* 📊 Bar Charts
-* 📈 Line Charts
-* 🥧 Pie Charts
-* 🍩 Donut Charts
-* 📉 Area Charts
-* 🔵 Scatter Plots
-* 🗺️ Maps
-* 📋 Tables
-* 🔢 Cards
-* 🎯 KPI Visuals
-* 🎛️ Slicers
+![Client Revenue Dashboard](./Client%20Revenue%20Dashboard.png)
 
 ---
 
-# 🎯 Dashboard Features
+## 👨‍💼 Employee Performance Dashboard
 
-The dashboards in this portfolio include:
-
-* KPI Cards
-* Interactive Charts
-* Slicers
-* Filters
-* Drill-Down
-* Drill-Through
-* Tooltips
-* Conditional Formatting
-* Dynamic Titles
-* Date Filters
-* Interactive Navigation
-* Data Storytelling
+![Employee Performance Dashboard](./Employee%20Performance%20Dashboard.png)
 
 ---
 
-# 📂 Featured Power BI Projects
+## 🎧 Support Analytics Dashboard
 
-## 🏢 NexaServe IT Solutions Dashboard
-
-An interactive business dashboard designed to analyze **business and service performance**.
-
-### Key Analysis
-
-* Revenue Performance
-* Customer Analysis
-* Service Analysis
-* Regional Performance
-* KPI Monitoring
-* Trend Analysis
-* Business Performance
-
-### Dashboard Features
-
-✅ KPI Cards
-✅ Interactive Slicers
-✅ Dynamic Visuals
-✅ Trend Analysis
-✅ Category-wise Analysis
-✅ Business Insights
+![Support Analytics Dashboard](./Support%20Analytics%20Dashboard.png)
 
 ---
 
-## 🚚 Delivery Analytics Dashboard
+## 🔍 Key Features
 
-A Power BI dashboard focused on analyzing **delivery and transportation performance**.
+### 📈 Interactive Visualizations
+Interactive charts, graphs, KPI cards, and filters make it easy to explore the data.
 
-### Key Analysis
+### 🎯 KPI Tracking
+Important business metrics are displayed through easy-to-understand KPI indicators.
 
-* Delivery Status
-* Delivery Delays
-* Route Performance
-* Driver Performance
-* Monthly Trends
-* Delivery Rate
-* Delay Rate
-* Operational Performance
+### 🔎 Data Filtering
+Users can filter and analyze information based on different categories and dimensions.
 
-### KPIs
+### 📊 Comparative Analysis
+The dashboards allow comparison across clients, employees, departments, and support activities.
+
+### 💡 Data-Driven Insights
+The project converts business data into actionable insights that can support decision-making.
+
+---
+
+## ⚙️ Power BI Development Process
+
+The project was developed using the following workflow:
+
+1. **Data Collection**
+2. **Data Cleaning & Transformation**
+3. **Data Modeling**
+4. **DAX Calculations**
+5. **Dashboard Design**
+6. **Data Visualization**
+7. **Insight Generation**
+
+---
+
+## 📂 Project Structure
 
 ```text
-Total Shipments
-On-Time Deliveries
-Delayed Deliveries
-Delay Rate %
-Average Delivery Time
-```
-
----
-
-## 💰 Transportation Cost Dashboard
-
-A dashboard designed to analyze **transportation and operational costs**.
-
-### Analysis Includes
-
-* Monthly Transportation Cost
-* Vehicle-wise Cost
-* Fuel Cost
-* Toll Cost
-* Service Cost
-* Driver-level Cost
-* Cost per Kilometer
-* Monthly Expense Growth
-
-### KPIs
-
-```text
-Total Cost
-Fuel Cost
-Toll Cost
-Service Cost
-Cost per KM
-Monthly Cost Growth %
-```
-
----
-
-# 🔄 Power BI Project Workflow
-
-The projects generally follow this workflow:
-
-```text
-Raw Data
-     ↓
-Data Import
-     ↓
-Power Query
-     ↓
-Data Cleaning
-     ↓
-Data Transformation
-     ↓
-Data Modeling
-     ↓
-DAX Measures
-     ↓
-Data Visualization
-     ↓
-Dashboard Development
-     ↓
-Insight Generation
-     ↓
-Business Recommendations
-```
-
----
-
-# 🧹 Data Cleaning with Power Query
-
-Power Query is used to prepare raw data before building dashboards.
-
-### Common Data Cleaning Tasks
-
-* Removing duplicate rows
-* Handling null values
-* Correcting data types
-* Renaming columns
-* Removing unnecessary columns
-* Splitting columns
-* Replacing values
-* Filtering records
-* Creating calculated columns
-* Combining multiple datasets
-
----
-
-# 🧩 Data Modeling
-
-A strong data model helps dashboards perform efficiently and makes analysis easier.
-
-### Modeling Concepts
-
-```text
-              Date
-               │
-               │
-Customers ─── Sales ─── Products
-               │
-               │
-            Regions
-```
-
-The portfolio includes practice with:
-
-* Fact Tables
-* Dimension Tables
-* Relationships
-* Star Schema
-* Date Dimensions
-* Filter Direction
-* Model Validation
-
----
-
-# 📐 KPI Analysis
-
-Power BI is used to create important business performance indicators.
-
-### Common KPIs
-
-```text
-Total Revenue
-Total Sales
-Total Orders
-Total Customers
-Average Order Value
-Profit
-Profit Margin %
-Growth %
-Delivery Rate %
-Delay Rate %
-Cost per KM
-```
-
----
-
-# 📈 Business Intelligence
-
-Power BI dashboards are designed to answer important business questions such as:
-
-* What is the total revenue?
-* Which category is performing best?
-* Which region generates the highest sales?
-* What is the monthly growth trend?
-* Which products are the top performers?
-* Which routes have the highest delays?
-* Which drivers have the best performance?
-* Where are operational costs increasing?
-
----
-
-# 💡 Key Power BI Analysis Techniques
-
-Some of the important techniques practiced in this portfolio include:
-
-✅ Data Cleaning
-✅ Power Query
-✅ Data Transformation
-✅ Data Modeling
-✅ Relationships
-✅ DAX Measures
-✅ Calculated Columns
-✅ KPI Development
-✅ Interactive Visualizations
-✅ Slicers & Filters
-✅ Drill-Down
-✅ Drill-Through
-✅ Conditional Formatting
-✅ Dashboard Design
-✅ Data Storytelling
-✅ Business Insights
-
----
-
-# 📁 Repository Structure
-
-```text
-Power-BI-Portfolio/
+NexaServe-IT-Solutions/
 │
-├── README.md
+├── Client Revenue Dashboard.png
+├── Employee Performance Dashboard.png
+├── Support Analytics Dashboard.png
 │
-├── Project-1/
-│   ├── Project-1.pbix
-│   ├── dataset.csv
-│   ├── dashboard.png
-│   └── README.md
-│
-├── Project-2/
-│   ├── Project-2.pbix
-│   ├── dataset.xlsx
-│   ├── dashboard.png
-│   └── README.md
-│
-├── Dashboards/
-│   ├── Sales_Dashboard.pbix
-│   ├── Delivery_Dashboard.pbix
-│   └── Cost_Dashboard.pbix
-│
-├── DAX/
-│   ├── dax_measures.txt
-│   └── dax_practice.pbix
-│
-└── Power-Query/
-    └── data_cleaning.pbix
-```
-
----
-
-# 📚 Power BI Practice Topics
-
-This repository also includes practice with:
-
-### 📥 Data
-
-* Excel
-* CSV
-* Database Sources
-* Multiple Data Sources
-
-### 🔄 Power Query
-
-* Cleaning
-* Transformation
-* Merge
-* Append
-* Group By
-* Custom Columns
-* Conditional Columns
-
-### 🧩 Modeling
-
-* Relationships
-* Fact & Dimension Tables
-* Star Schema
-* Date Table
-* Data Model Design
-
-### 🧮 DAX
-
-* Measures
-* Calculated Columns
-* CALCULATE
-* FILTER
-* SUMX
-* COUNTROWS
-* DIVIDE
-* IF
-* SWITCH
-* Time Intelligence
-
-### 📊 Visualization
-
-* Charts
-* Cards
-* KPIs
-* Slicers
-* Tables
-* Maps
-* Tooltips
-* Conditional Formatting
-
----
-
-# 🎯 Project Objectives
-
-The main objectives of this Power BI portfolio are to:
-
-* Build strong Power BI fundamentals
-* Develop practical dashboarding skills
-* Learn Power Query
-* Improve data modeling knowledge
-* Practice DAX
-* Create interactive reports
-* Analyze business performance
-* Generate meaningful insights
-* Improve data storytelling
-* Develop Business Intelligence skills
-
----
-
-# 💡 Key Learnings
-
-Through these projects, I am gaining practical experience in:
-
-✅ Power BI
-✅ Power Query
-✅ Data Cleaning
-✅ Data Transformation
-✅ Data Modeling
-✅ DAX
-✅ KPI Development
-✅ Interactive Dashboards
-✅ Data Visualization
-✅ Business Intelligence
-✅ Data Storytelling
-✅ Insight Generation
-
----
-
-# 🚀 Future Power BI Projects
-
-I plan to expand this portfolio with projects involving:
-
-* 📊 Advanced Sales Analytics
-* 💰 Financial Analytics
-* 👥 HR Analytics
-* 📦 Inventory Analytics
-* 🚚 Logistics Analytics
-* 🏥 Healthcare Analytics
-* 🏦 Banking Analytics
-* 🛒 E-commerce Analytics
-* 📈 Customer Analytics
-* ⚡ Advanced DAX
-* 🔄 Advanced Power Query
-* ☁️ Power BI Service
-
----
-
-# 🔗 Other Portfolio Projects
-
-| Technology  | Focus                              |
-| ----------- | ---------------------------------- |
-| 📊 Excel    | Data Analysis & Dashboards         |
-| 🗄️ SQL     | Database & Data Analysis           |
-| 📈 Power BI | Business Intelligence & Dashboards |
-| 📉 Tableau  | Data Visualization                 |
-| 🐍 Python   | Data Analysis & Data Science       |
-
----
-
-# 🎯 Career Focus
-
-My goal is to build a strong career in **Data Analytics and Data Science** by continuously improving my technical, analytical, and problem-solving skills.
-
-Power BI is an important part of my learning journey because it allows me to transform data into **interactive dashboards, KPIs, business insights, and decision-support reports**.
-
-I aim to combine **Power BI, SQL, Excel, Tableau, Python, and Statistics** to solve real-world business problems.
-
----
-
-# 📬 Connect With Me
-
-🔗 **LinkedIn Profile:** [linkedin.com/in/r-hemant-kumar-patra-654469419](https://www.linkedin.com/in/r-hemant-kumar-patra-654469419/)
-
-🐙 **GitHub:** [R Hemant Kumar Patra](https://github.com/)
-
----
-
-⭐ **Feel free to explore my Power BI projects and dashboards!**
-
-⭐ **If you find my work useful, please consider giving the repository a star.**
-
----
-
-### © 2026 R Hemant Kumar Patra
-
-**Power BI Data Analytics Portfolio** 📊🚀
-
-**Connect Data • Build Dashboards • Generate Insights**
-
+└── Readme.md
